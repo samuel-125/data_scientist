@@ -96,3 +96,5 @@ print("Results saved in outputs/")
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+print("I love ALLIANCE")
